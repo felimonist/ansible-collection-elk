@@ -1,6 +1,6 @@
 - name: gen_sev_info
   hosts: all
-  gather_facts: yes
+  gather_facts: no
   become: yes
 
   roles:
