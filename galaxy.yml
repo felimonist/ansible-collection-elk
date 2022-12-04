@@ -5,4 +5,7 @@
 
   roles:
     - elasticsearch
+    - kibana
+    - logstash
+    - beats
   
